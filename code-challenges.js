@@ -28,3 +28,12 @@ var hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
 var hand3 = [5, 5, 5, 5, 4]
 // Expected output: false
+var hand4 = [3, 5, 3, 5, 3]
+// Expected output: true
+
+
+// STRETCH:
+var hand5 = ["K", 5, "K", 5, "K"]
+// Expected output: true
+var hand6 = ["A", "Q", "A", 5, 3]
+// Expected output: false
